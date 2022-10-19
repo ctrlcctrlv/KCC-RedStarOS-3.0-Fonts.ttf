@@ -1,0 +1,28 @@
+kpcholiB.ttx:      (c) Copyright Korea Computer Centre. 2000-2012
+kpcholiB.ttx:      V4.0   
+kpcholiL.ttx:      (c) Copyright Korea Computer Centre. 2000-2012
+kpcholiL.ttx:      V4.0   
+kpcholim.ttx:      (c) Copyright Korea Computer Centre. 2000-2012
+kpcholim.ttx:      V4.0   
+kpcholin.ttx:      (c) Copyright Korea Computer Centre. 2000-2012
+kpcholin.ttx:      V4.0   
+kpchopoB.ttx:      (c) Copyright Korea Computer Centre. 2000-2012
+kpchopoB.ttx:      V4.0   
+kpchopoL.ttx:      (c) Copyright Korea Computer Centre. 2000-2012
+kpchopoL.ttx:      V4.0   
+kpchopom.ttx:      (c) Copyright Korea Computer Centre. 2000-2012
+kpchopom.ttx:      V4.0   
+kpcrpyeB.ttx:      (c) Copyright Korea Computer Centre. 2000-2012
+kpcrpyeB.ttx:      V4.0   
+kpcrtunm.ttx:      (c) Copyright Korea Computer Centre. 2000-2012
+kpcrtunm.ttx:      V4.0   
+kpkwamyB.ttx:      (c) Copyright Korea Computer Centre. 2000-2012
+kpkwamyB.ttx:      V4.0   
+kpkwamym.ttx:      (c) Copyright Korea Computer Centre. 2000-2012
+kpkwamym.ttx:      V4.0   
+kppkkunM.ttx:      (c) Copyright Korea Computer Centre. 2000-2012
+kppkkunM.ttx:      V4.0   
+kppkyesB.ttx:      (c) Copyright Korea Computer Centre. 2000-2012
+kppkyesB.ttx:      V4.0   
+kppuskum.ttx:      (c) Copyright Korea Computer Centre. 2000-2012
+kppuskum.ttx:      V4.0   
